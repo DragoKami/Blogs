@@ -4,8 +4,8 @@ Welcome to my GitHub repository! Here, you will find a collection of my blogs on
 
 ## 📚 Blog List
 
-1. **[Blog Title 1](https://medium.com/your-medium-link-1)**  🆕
-   *Short description of Blog 1.*
+1. **[Not a CAG : Cached RAG with Amazon OpenSearch](https://medium.com/ai-adventure/not-a-cag-cached-rag-with-amazon-opensearch-13228c83a593)**  🆕
+   *This blog provides a clarification between a CAG and a cached RAG. It is a step by step guide to build your own Cached RAG using Amazon Opensearch using Amazon Sagemaker Studio Jupyter Notebook*
 
 2. **[Build a Cache Augmented Generation(CAG) flow with Amazon Elasticache Valkey](https://medium.com/ai-adventure/build-a-cache-augmented-generation-cag-flow-with-amazon-elasticache-valkey-c80d7f9080cb)**  
    *A hands-on guide to building a CAG with Valkey cache on AWS*
